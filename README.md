@@ -9,7 +9,9 @@ In this work we used **Egogesture** dataset that is a multi-modal large scale da
 - __MobileNet__: Optimized for mobile and embedded devices with depth-wise separable convolutions for high-performance image recognition
 - __ShuffleNet__: Minimizes computational complexity with channel shuffling, ideal for mobile and resource-constrained applications
 
-We used pretrainet models on Jester dataset from this paper: [link](https://arxiv.org/pdf/1904.02422), they published their work on GitHub([link](https://github.com/okankop/Efficient-3DCNNs))
+We used pretrainet models on Jester dataset from this paper: [link](https://arxiv.org/pdf/1904.02422), they published their work on GitHub ([link](https://github.com/okankop/Efficient-3DCNNs))
 
 
 # Results
+
+![Benchmark of the tested models](./readme_assets/Benchmark.svg)
