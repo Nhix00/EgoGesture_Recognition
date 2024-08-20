@@ -1,4 +1,6 @@
 # Benchmark of Light Weight Models for EgoGesture Recognition
+![Static Badge](https://img.shields.io/badge/PyTorch-white?logo=pytorch&link=https%3A%2F%2Fpytorch.org%2Fdocs%2Fstable%2Findex.html)
+![Static Badge](https://img.shields.io/badge/PyTorch_Lightning-%23792EE5?logo=lightning&link=https%3A%2F%2Flightning.ai%2Fdocs%2Foverview%2Fgetting-started)
 
 ## Introduction
 The proposed work primarily concentrates on offline gesture recognition as detailed in the [paper](https://doi.org/10.48550/arXiv.1901.10323). Our objective is to benchmark several lightweight models, such as ShuffleNet, and compare their performance to the heavier ResNeXt model featured in the study.
@@ -19,6 +21,7 @@ The results of our work are shown in the next graphic.
 
 
 ## Contacts
+If you have any questions, suggestions, or feedback, we'd love to hear from you! Here's how you can reach out:
 
-Diego Barreto: [email](mailto:diego.barreto.mattias@gmail.com?subject=[GitHub]%20EgoGesture_Recognition)
-Matteo Zacchino: [email](mailto:matteo.zacchino2000@gmail.com?subject=[GitHub]%20EgoGesture_Recognition)
+- Diego Barreto: [diego.barreto.mattias@gmail.com](mailto:diego.barreto.mattias@gmail.com?subject=[GitHub]%20EgoGesture_Recognition)
+- Matteo Zacchino: [matteo.zacchino2000@gmail.com](mailto:matteo.zacchino2000@gmail.com?subject=[GitHub]%20EgoGesture_Recognition)
