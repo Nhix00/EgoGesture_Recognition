@@ -12,6 +12,13 @@ In this work we used **Egogesture** dataset that is a multi-modal large scale da
 We used pretrainet models on Jester dataset from this paper: [link](https://arxiv.org/pdf/1904.02422), they published their work on GitHub ([link](https://github.com/okankop/Efficient-3DCNNs))
 
 
-# Results
+## Results
+The results of our work are shown in the next graphic.
 
 ![Benchmark of the tested models](./readme_assets/Benchmark.svg)
+
+
+## Contacts
+
+Diego Barreto: [email](mailto:diego.barreto.mattias@gmail.com?subject=[GitHub]%20EgoGesture_Recognition)
+Matteo Zacchino: [email](mailto:matteo.zacchino2000@gmail.com?subject=[GitHub]%20EgoGesture_Recognition)
