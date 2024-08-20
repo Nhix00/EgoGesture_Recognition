@@ -1,0 +1,7 @@
+
+# ignore DATASET folder
+ckpt/
+lightning_logs/
+runs/
+
+*.code-workspace
